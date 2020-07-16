@@ -1,5 +1,5 @@
 # desafio-fundamentos-reactjs
-<h3>Desafio do Bootcamp GoStack 11 da Rocketseat.</h3>
+<h3>Desafio do Bootcamp GoStack 12 da Rocketseat.</h3>
 
 Essa será uma aplicação que irá se conectar ao seu backend do [Desafio 06](https://github.com/MagnoBelloni/desafio-database-upload-nodejs), e exibir as transações criadas e permitir a importação de um arquivo CSV conforme modelo abaixo, para gerar novos registros no banco de dados.
 > [Modelo de CSV](https://github.com/Rocketseat/bootcamp-gostack-desafios/blob/master/desafio-database-upload/assets/file.csv)
